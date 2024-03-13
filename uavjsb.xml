@@ -3,3 +3,41 @@ its 1000 pounds. Afterburning jet engine. it can do spins really fast. it must h
 Wing: small uav looking wing. high tolerance
 
 no need for this thing to take off. it launchs from a launcher truck
+
+some specs boiii
+
+empty weight: 8000lb
+
+wingspan: 33ft 10inches extended
+
+hight 6ft 8 inches
+
+length 26ft 6inches
+
+no dlhd in wings
+
+single engine thrust vector up to +-10 degress
+
+this drone has the ability to spin very rapidly so little control is needed from tge script
+
+Ground reactions: only one main front one. because this thing launches and... never comes back... 
+the 11f variant will neable to take off and land anywhere
+
+The launchertruck launches it at 150kts min power. then it flies its marker points
+
+my computer has enough resources to run around 50 of these
+
+Other stuff
+its armament is 4 aim120s. thats it.     oh and a pulse laser   PEWPEWPEWPEWPEWPEWPEQPEWPEWPEWPEWTESTESTESTESTESBOOM
+
+Based off a weapon that i made for the f16 that dropped a small uav. The uav flew to its target and shot it with a laser gun
+when the target was destroyed it went and reattached to the host viper via data link. This was tested against 2 OPRF members id 4 and 5. :D they sure seem to like it XD
+
+inorder to be super manuverable ill have to create virtual thrusters to have so much manuverability. g limit will be 29 @ 612kts (M1)
+
+No flares but it does have a low rcs. ill use a random low rcs in the current list
+
+it should have the ability to communicate with others and human jets. Such as calling for back up. i already made a nasal script For raptor to talk to the drone
+
+
+it should beable todo 4 rolls per second
